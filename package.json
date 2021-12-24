@@ -1,9 +1,13 @@
 {
+云函数addXiaoLiang
+  "name": "addXiaoLiang",
+
 云函数changeGood
   "name": "deleteGood",
 
   "name": "getFoodList",
 main
+ main
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
