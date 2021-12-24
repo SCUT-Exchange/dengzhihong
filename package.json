@@ -1,5 +1,9 @@
 {
+云函数changeGood
   "name": "deleteGood",
+
+  "name": "getFoodList",
+main
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
